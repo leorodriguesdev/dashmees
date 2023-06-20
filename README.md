@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Iniciando o aplicativo
+
+Abra dois terminais separados e navegue para o diretório do projeto no terminal.
+
+No primeiro terminal, inicie o servidor Node.js:
+
+`cd server`
+`node server.js`
+
+No segundo terminal, inicie o aplicativo React.js:
+
+`npm start`
